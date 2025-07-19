@@ -1,4 +1,4 @@
-# Jyuu-Faithful-Additions
+# jyuu-faithful-additions
 edits to the faithful texture pack
 
 ## uposcaled skin
