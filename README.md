@@ -5,3 +5,4 @@ edits to the faithful texture pack
 \assets\minecraft\textures\entity\player\wide\kai.png 
 is relaced with an upscaled to a 32x version of my skin.
 When the file containing your skin in the asset\skins folder cannot be read this is used as a fallback. (ONLY FOR ME AS MY DEFAULT SKIN IS KAI)
+This can be forced by finding the folder containing the skin and renaming a empty txt file to replace the skin.
