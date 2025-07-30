@@ -9,3 +9,7 @@ This can be forced by finding the folder containing the skin and renaming a empt
 
 ## TO DO:
 potentially use minecraft's internal shaders to automatically upscale skins to 128x128. There have been packs that did this but as the upscaling is done with an algorithm the quality sucks.
+
+FIX consistency with boat textures, the oak boats oars seems to be slightly variated from the others
+
+Update pack format for upcoming fall drop
