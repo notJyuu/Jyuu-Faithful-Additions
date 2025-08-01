@@ -1,13 +1,27 @@
-# jyuu-faithful-additions
-edits to the faithful texture pack
+# 🎨 Jyuu Faithful Additions
 
-## upscaled skin
-\assets\minecraft\textures\entity\player\wide\kai.png 
-is relaced with an upscaled to a 32x version of my skin.
-When the file containing your skin in the asset\skins folder cannot be read this is used as a fallback. (ONLY FOR ME AS MY DEFAULT SKIN IS KAI)
-This can be forced by finding the folder containing the skin and renaming a empty txt file to replace the skin.
+A lightweight overlay for [Faithful 32x](https://faithfulpack.net/) 
 
-## TO DO:
-potentially use minecraft's internal shaders to automatically upscale skins to 128x128. There have been packs that did this but as the upscaling is done with an algorithm the quality sucks.
+## 📦 About
 
-Update pack format for upcoming fall drop
+This is an **overlay** pack, intended to be used **on top of** the official Faithful 32x texture pack.
+
+## ✅ Requirements
+
+* **Minecraft Version:** 1.21+ (may work with other versions)
+* **Base Pack Required:** [Faithful 32x](https://faithfulpack.net/)
+* Works with both **Vanilla**, **OptiFine** and **Fabric** setups
+
+## 🎨 Features
+
+| Texture or Feature                          | Change Description                                                                    |
+| ------------------------------------------- | ------------------------------------------------------------------------------------- |
+|  **Ingots**                              | All metal ingots (iron, gold, copper, etc.) have unique, recognizable shapes.         |
+|  **Dyes**                                 | Every dye now has a distinct shape—not just color—for better inventory readability.   |
+|  **Redstone, Glowstone, Gunpowder, Sugar** | These particle items are now uniquely shaped, helping differentiate them at a glance. |
+|  **Redstone Dust Lines**                  | Pixel gaps in redstone line textures have been cleaned up for smoother appearance.    |
+|  **Main Menu Background**                 | Dirt-themed background replaces the default panorama for a cozy, grounded look.       |
+|  **Entity Shadows**                       | Shadows under mobs and players are clearer and more defined for better visibility.    |
+|  **Upscaled Skin**                       | currently only upscales my own minecraft skin using a workaround on the kai skin.    |
+
+
